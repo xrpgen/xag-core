@@ -48,3 +48,5 @@ git-subtree. See those directories' README files for more details.
 
 API reference: https://dev.xagfans.com/
 
+WTAA protocol: https://github.com/xrpgen/wtaa
+
