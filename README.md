@@ -50,3 +50,5 @@ API reference: https://dev.xagfans.com/
 
 WTAA protocol: https://github.com/xrpgen/wtaa
 
+Create token: https://github.com/xrpgen/token-issuer
+
